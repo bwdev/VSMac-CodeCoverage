@@ -49,7 +49,7 @@ If you like this tool and would like to support its development, you can...
 
 * This extension also uses **Toni Solarin-Sodara**'s [coverlet](https://github.com/tonerdo/coverlet) coverage tool for gathering coverage.
 
-## Acknowledgments
+## Acknowledgements
 
 Big thanks to the [coverlet](https://github.com/tonerdo/coverlet) project, which made this extension possible.
 
